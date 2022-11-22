@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : https://www.linkedin.com/in/stanislavbarnash/
+- Codewars : https://www.codewars.com/users/stxss
+- Leetcode : https://leetcode.com/stxss/
 
 <!---
 stxss/stxss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
