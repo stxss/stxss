@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stxss
-- 👀 I’m interested in cyber security, back-end and full-stack development.
-- 🌱 I’m currently learning Python, C, JavaScript, HTML, CSS, Ruby
+- 👀 I’m interested in back-end and full-stack development.
+- 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : https://www.linkedin.com/in/stanislavbarnash/
 - Codewars : https://www.codewars.com/users/stxss
